@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JudgeBreaded
+- 👋 Hi, I’m Brett Mackinnon
 - 👀 I’m interested in Learning Frontend/Backend Development
 - 🌱 I’m currently learning Python/JavaScript/SQL
 - 💞️ I’m looking to collaborate on any student project to get some experience in software development 
