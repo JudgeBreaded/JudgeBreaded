@@ -1,6 +1,6 @@
-https://cdn.iconscout.com/icon/free/png-256/free-neon-23-101882.png
 
-<h2 align="center"> Languages - Frameworks </h2>
+
+<h1>Hey, Im Brett!</h1>
 <br/>
 - 👀 I’m interested in Learning Frontend/Backend Development
 - 🌱 I’m currently learning TypeScript/JavaScript/React
