@@ -4,7 +4,8 @@
 <br/>
 - 💻 Software Engineer | 🎲 TTRPG Enthusiast | 🎧 Musical Theatre Junkie
 -
--Coming a from a background in the Arts I've always enjoyed the experiences the medium brings to myself and others. I've set for to bring my apprection for the medium to bring fresh prospective to the stem field. 
+-
+Coming a from a background in the Arts I've always enjoyed the experiences the medium brings to myself and others. I've set for to bring my apprection for the medium to bring fresh prospective to the stem field. 
 - 
 <hr/>
 <div align="center"> 
