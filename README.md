@@ -2,11 +2,13 @@
 
 <h1>Hey, Im Brett!</h1>
 <br/>
-- 💻 Software Engineer | 🎲 TTRPG Enthusiast | 🎧 Musical Theatre Junkie
--
+<div align="center">
+ 💻 Software Engineer | 🎲 TTRPG Enthusiast | 🎧 Musical Theatre Junkie
+</div>
 <br/>
+<div>
 Coming a from a background in the Arts I've always enjoyed the experiences the medium brings to myself and others. I've set for to bring my apprection for the medium to bring fresh prospective to the stem field
-
+</div>
 <hr/>
 <div align="center"> 
   <a href="mailto:brett.mackinnon9@gmail.com">
