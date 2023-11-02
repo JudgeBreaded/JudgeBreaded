@@ -1,6 +1,6 @@
 
 
-<h1>Hey, Im Brett!</h1>
+<h1 align='center'>Hey, Im Brett!</h1>
 <br/>
 <div align="center">
  💻 Software Engineer | 🎲 TTRPG Enthusiast | 🎧 Musical Theatre Junkie
