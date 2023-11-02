@@ -3,8 +3,11 @@
 <h1>Hey, Im Brett!</h1>
 <br/>
 - 👀 I’m interested in Learning Frontend/Backend Development
+
 - 🌱 I’m currently learning TypeScript/JavaScript/React
-- 💞️ I’m looking to collaborate on any projects to get some experience in software development 
+- 
+- 💞️ I’m looking to collaborate on any projects to get some experience in software development
+- 
 - 📫 How to reach me brett.mackinnon9@gmail.com
 <hr/>
 <div align="center"> 
@@ -22,7 +25,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,nextjs,mysql, postgres" /><br>
 </div>
 <!---
