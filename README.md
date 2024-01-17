@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div>
-Coming a from a background in the Arts I've always enjoyed the experiences the medium brings to myself and others. I've set for to bring my apprection for the medium to bring fresh prospective to the stem field
+Coming from a background in the Arts I've always enjoyed the experiences the medium brings to myself and others. I've set out to bring my apprection for the medium to bring fresh prospective to the stem field
 </div>
 <hr/>
 <div align="center"> 
